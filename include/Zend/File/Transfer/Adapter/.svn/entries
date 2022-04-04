@@ -1,0 +1,52 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/File/Transfer/Adapter
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Http.php
+file
+
+
+
+
+2010-11-22T12:33:28.562500Z
+d172f524469fd25c86d4ee053aed268d
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Abstract.php
+file
+
+
+
+
+2010-11-22T12:33:28.562500Z
+a8fb6cc5234aa9ea61ba460b2f0d168d
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

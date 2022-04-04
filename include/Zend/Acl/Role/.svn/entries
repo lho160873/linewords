@@ -1,0 +1,55 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Acl/Role
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Interface.php
+file
+
+
+
+
+2010-11-22T12:33:39.656250Z
+ecdd98214cc191d9121e9fdb8e359983
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Registry
+dir
+
+Registry.php
+file
+
+
+
+
+2010-11-22T12:33:39.656250Z
+e25f85693bf650d2b1e7d41d5d7fd057
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

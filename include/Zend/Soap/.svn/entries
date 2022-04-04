@@ -1,0 +1,88 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Soap
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Wsdl.php
+file
+
+
+
+
+2010-11-22T12:33:30.000000Z
+eeb8fb6747a5c70270568bde189e215f
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Client.php
+file
+
+
+
+
+2010-11-22T12:33:30.000000Z
+6819404c61d8e62d7ab3c611cdea3af8
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Server
+dir
+
+AutoDiscover
+dir
+
+Wsdl
+dir
+
+Server.php
+file
+
+
+
+
+2010-11-22T12:33:30.000000Z
+51bab54edcf18d6813b67923bc549fc2
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+AutoDiscover.php
+file
+
+
+
+
+2010-11-22T12:33:30.015625Z
+48102388dd4c14f4890b129361ae27e5
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Client
+dir
+

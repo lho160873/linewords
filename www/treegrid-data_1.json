@@ -1,0 +1,10 @@
+[{
+    id:1,
+    text:'name1',
+        leaf:false,
+    children:[{
+        id:2,
+        text:'name2',
+            leaf:true
+        }]    
+}]

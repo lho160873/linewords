@@ -1,0 +1,55 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Translate
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Adapter
+dir
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:35.734375Z
+7c0002781c1c563a9f1d3d4f382e2cd5
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Adapter.php
+file
+
+
+
+
+2010-11-22T12:33:35.734375Z
+7e4b745a4ac093c3a774ac36bd3dd788
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

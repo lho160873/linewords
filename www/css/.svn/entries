@@ -1,0 +1,40 @@
+8
+
+dir
+4873
+svn://svn/hlv/trunk/web/phpweb20/www/css
+svn://svn
+
+
+
+2010-12-09T11:58:55.577064Z
+4873
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+lightbox.css
+file
+4901
+
+
+
+2007-11-03T12:59:54.000000Z
+8106abf57b9983b5a56442e507efbe5b
+2010-12-16T08:25:56.232896Z
+4901
+hlv
+
+styles.css
+file
+4901
+
+
+
+2007-11-03T12:59:54.000000Z
+c18345032c6d44a7477d3670a4f11810
+2010-12-16T08:25:56.232896Z
+4901
+hlv
+

@@ -1,0 +1,70 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Soap/Wsdl
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Strategy
+dir
+
+Parser.php
+file
+
+
+
+
+2010-11-22T12:33:29.875000Z
+8a0765cac564428ee2653a9cdce5592e
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:29.875000Z
+f06f287a6dbab8138face3d1963e2228
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+CodeGenerator.php
+file
+
+
+
+
+2010-11-22T12:33:29.906250Z
+2f841dabd66090090bccd1877545389a
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Parser
+dir
+

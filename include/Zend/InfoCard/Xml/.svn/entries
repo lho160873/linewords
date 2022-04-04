@@ -1,0 +1,139 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/InfoCard/Xml
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Element.php
+file
+
+
+
+
+2010-11-22T12:33:41.156250Z
+433d3108a9b829ada5fe3d7297b8448a
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+KeyInfo
+dir
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:41.156250Z
+e2aef18f4f13a2d9c0d86386dc949d3c
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Assertion
+dir
+
+EncryptedData
+dir
+
+Security
+dir
+
+Element
+dir
+
+KeyInfo.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+4829dc1b5fa9ef543490742ad50e2436
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+EncryptedKey.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+2d2c37710694eac32bfecb7a902669b2
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Assertion.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+edba7e8ec8039789fe149a1ca59371a9
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+EncryptedData.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+b12ec1008e34924530738cc97d42b763
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Security.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+fa79451c2320f1af0e2864282bb304aa
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+SecurityTokenReference.php
+file
+
+
+
+
+2010-11-22T12:33:41.171875Z
+85da26a900ac61844596d047ba07cce9
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

@@ -1,0 +1,58 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Pdf/Resource/Font/Simple
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Standard
+dir
+
+Parsed.php
+file
+
+
+
+
+2010-11-22T12:33:30.890625Z
+18adf225bf7da91a84f7bd283466f766
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Standard.php
+file
+
+
+
+
+2010-11-22T12:33:30.890625Z
+405d62fa70d454426da11d6669e69d8c
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Parsed
+dir
+

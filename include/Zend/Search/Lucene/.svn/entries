@@ -1,0 +1,151 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Search/Lucene
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Analysis
+dir
+
+Storage
+dir
+
+Document.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+457543880bbf68b6bff7a2c4398eb89d
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+4f7af315a3fc3b8fcd2259fbbd78a0d7
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Search
+dir
+
+Interface.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+a6409e9a05527e09cfb2c2400120e878
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Index
+dir
+
+Proxy.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+9f28952fa277c8b06b0b1622a0a762ec
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+FSMAction.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+c0ee19c2a90cc0c810842e818882ecd6
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Field.php
+file
+
+
+
+
+2010-11-22T12:33:44.062500Z
+550afdb1c2d7940bc3374d5fe98fd96f
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+LockManager.php
+file
+
+
+
+
+2010-11-22T12:33:44.078125Z
+c9e33657c645d4047c11ee8fe1fb4f11
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+FSM.php
+file
+
+
+
+
+2010-11-22T12:33:44.078125Z
+1f857e6daf2f6c8168ff22d71f14ec65
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+PriorityQueue.php
+file
+
+
+
+
+2010-11-22T12:33:44.078125Z
+5facfb58f5013bbec042c4f908a94461
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Document
+dir
+

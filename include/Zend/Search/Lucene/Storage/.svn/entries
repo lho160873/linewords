@@ -1,0 +1,58 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Search/Lucene/Storage
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+File
+dir
+
+Directory
+dir
+
+File.php
+file
+
+
+
+
+2010-11-22T12:33:43.578125Z
+15a1c5983fa15ab3606acb784ecc2bdc
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Directory.php
+file
+
+
+
+
+2010-11-22T12:33:43.578125Z
+34c746d106516b0cb6570036ae8913c8
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

@@ -1,0 +1,112 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Db/Statement
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Pdo
+dir
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:34.140625Z
+1d13f29a55463db189629021c3461acc
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Mysqli.php
+file
+
+
+
+
+2010-11-22T12:33:34.156250Z
+58478e22071b4ae98e3682a9bbd5b121
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Oracle
+dir
+
+Interface.php
+file
+
+
+
+
+2010-11-22T12:33:34.156250Z
+d74f7ac4decf766bb5785b0bebc5b750
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Db2
+dir
+
+Pdo.php
+file
+
+
+
+
+2010-11-22T12:33:34.156250Z
+5558cd0182c651d2c75e1cafba6fa27f
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Oracle.php
+file
+
+
+
+
+2010-11-22T12:33:34.156250Z
+d5c50298b00b5ef35b9c077c9b06717f
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Db2.php
+file
+
+
+
+
+2010-11-22T12:33:34.156250Z
+34e6a0cdea57c107b2da57f61a9dbe78
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Mysqli
+dir
+

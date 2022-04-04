@@ -1,0 +1,31 @@
+            </div>
+        </div>
+
+        
+
+        <div id="left-container" class="column">
+            <div class="box">
+                {if $authenticated}
+                    Logged in as
+                    {$identity->fio|escape}
+                    (<a href="{geturl controller='account' action='logout'}">logout</a>).
+                    <a href="{geturl controller='account' action='details'}">Update details</a>.
+                {else}
+                    Вы не вошли.
+                    <a href="{geturl controller='account' action='login'}">Войти</a> 
+                    <a href="{geturl controller='account' action='register'}">Регистарция</a>
+                {/if}
+            </div>
+        </div>
+        
+        <div id="right-container" class="column">
+            <div class="box">
+                Информа- ционная панель
+            </div>
+        </div>
+
+        <div id="footer">
+            "Сеть знаний" - ЗАО "Фирма Пассат" 2011 г.
+        </div>
+    </body>
+</html>

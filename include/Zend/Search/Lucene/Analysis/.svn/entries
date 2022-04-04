@@ -1,0 +1,70 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Search/Lucene/Analysis
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Analyzer
+dir
+
+TokenFilter
+dir
+
+Token.php
+file
+
+
+
+
+2010-11-22T12:33:43.500000Z
+0e9e9bdbb10033e0164e9720a64dc521
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Analyzer.php
+file
+
+
+
+
+2010-11-22T12:33:43.500000Z
+ba647b5c63e3c1e8f6ed4d1df29cf1f4
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+TokenFilter.php
+file
+
+
+
+
+2010-11-22T12:33:43.515625Z
+e9a3aa8eae829e42e3e9e7296765b72c
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

@@ -1,0 +1,79 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Feed/Builder
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Exception.php
+file
+
+
+
+
+2010-11-22T12:33:30.156250Z
+d7a4e39d37e43533d39d16a21bff071a
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Interface.php
+file
+
+
+
+
+2010-11-22T12:33:30.156250Z
+4fbab2f55934859e4513eac6ee06d572
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Entry.php
+file
+
+
+
+
+2010-11-22T12:33:30.171875Z
+4267b6ee0fdc7ce39ee4023c2b861bae
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Header
+dir
+
+Header.php
+file
+
+
+
+
+2010-11-22T12:33:30.187500Z
+305176807d4feae35fc1d0d5b0d8ff8d
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+

@@ -1,0 +1,328 @@
+8
+
+dir
+4799
+svn://svn/hlv/trunk/web/phpweb20/include/Zend/Gdata
+svn://svn
+
+
+
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e2c30a98-4fbb-6140-aff4-3bf5a3146cf3
+
+Exif.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+8fb3de35cb66357f0a8f0e2d080091b6
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Gbase
+dir
+
+Entry.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+2e67b0330cff929e263e64a71ca18967
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Feed.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+4eaa7cf4c01c314312456b9dd5e0c5aa
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Exif
+dir
+
+Calendar.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+6d2691d0fb3b7e547e8e59667101900b
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Gapps.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+4bbeb7431a756c2caf752b4def7e5cf4
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Extension.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+1a9511d12cbcd6a7ead7edb1a9344471
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Media.php
+file
+
+
+
+
+2010-11-22T12:33:33.187500Z
+6a9fdbcfe10832393c36d598d2d88606
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+App.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+425243fab27fac22142e818a3b3513af
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Calendar
+dir
+
+Gapps
+dir
+
+DublinCore.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+df0e0f47fb16cfe5ef8e84e879b9cf6b
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Extension
+dir
+
+Docs.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+49eb105502d21961ee874c6f4314af3b
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Media
+dir
+
+Spreadsheets.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+b791d34a1b5c21aee492e642e296f9ec
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+App
+dir
+
+YouTube.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+ff9573e6fe7541ec2b6942bb2c2e5e7e
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Kind
+dir
+
+DublinCore
+dir
+
+Docs
+dir
+
+Spreadsheets
+dir
+
+Query.php
+file
+
+
+
+
+2010-11-22T12:33:33.218750Z
+eac09906916242341cc9923c3d0750fc
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Health.php
+file
+
+
+
+
+2010-11-22T12:33:33.203125Z
+8a5ff6f08975a360cb2e12a49e088f84
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+YouTube
+dir
+
+ClientLogin.php
+file
+
+
+
+
+2010-11-22T12:33:33.218750Z
+e76978ef2a8d4efaba325e5124b509fc
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Geo.php
+file
+
+
+
+
+2010-11-22T12:33:33.218750Z
+7fdfcea1ef199b02c9427be8d0eb979e
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+AuthSub.php
+file
+
+
+
+
+2010-11-22T12:33:33.234375Z
+6d13e1d93bc1601f746229ee372dca30
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Photos.php
+file
+
+
+
+
+2010-11-22T12:33:33.234375Z
+ddc2ddf38d189c56d3797a1f651b640c
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Books.php
+file
+
+
+
+
+2010-11-22T12:33:33.234375Z
+11a3fd160d1fc39451d57cb353b51a66
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+HttpClient.php
+file
+
+
+
+
+2010-11-22T12:33:33.250000Z
+1020cd4bb397856eb218afaf504d7bad
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Health
+dir
+
+Gbase.php
+file
+
+
+
+
+2010-11-22T12:33:33.250000Z
+10fb61810e5366100a3fa8808825fffa
+2010-11-22T12:37:02.075705Z
+4798
+hlv
+
+Geo
+dir
+
+Photos
+dir
+
+Books
+dir
+
